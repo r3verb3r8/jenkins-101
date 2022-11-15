@@ -1,2 +1,2 @@
 
-print("Dark world")
+print("Darker world")
