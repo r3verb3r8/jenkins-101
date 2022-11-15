@@ -1,2 +1,2 @@
 
-print("Darker world")
+print("There's a dark cloud over the world")
